@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "em-comunas-chile",
+    "name": "Comunas de Chile",
+    "description": "Agrega las comunas chilenas al checkout de WooCommerce.",
+    "version": "1.0.0",
+    "download_url": "https://github.com/usuario/em-comunas-chile/releases/latest/download/em-comunas-chile.zip"
+  },
+  {
+    "slug": "em-boleta-sii",
+    "name": "Boleta Electrónica SII",
+    "description": "Integra boletas electrónicas del SII directamente desde tu tienda WooCommerce.",
+    "version": "2.0.1",
+    "download_url": "https://github.com/usuario/em-boleta-sii/releases/latest/download/em-boleta-sii.zip"
+  },
+  {
+    "slug": "em-pago-transferencia",
+    "name": "Pago por Transferencia Chile",
+    "description": "Agrega una opción de pago por transferencia bancaria validada automáticamente.",
+    "version": "1.1.0",
+    "download_url": "https://github.com/usuario/em-pago-transferencia/releases/latest/download/em-pago-transferencia.zip"
+  }
+]
