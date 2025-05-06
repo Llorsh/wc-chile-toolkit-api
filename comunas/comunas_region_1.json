@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arica",
+    "region_id": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Camarones",
+    "region_id": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Putre",
+    "region_id": 1
+  },
+  {
+    "id": 4,
+    "nombre": "General Lagos",
+    "region_id": 1
+  }
+]
